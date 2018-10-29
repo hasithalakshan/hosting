@@ -1,0 +1,68 @@
+
+*	Error:-user id=11
+	invoice id=123
+	message=Connection could not be established with host smtp.gmail.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0]
+
+
+*	Error:-user id=11
+	invoice id=123
+	message=Connection could not be established with host smtp.gmail.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0]
+
+
+*	Error:-user id=11
+	invoice id=123
+	message=Connection could not be established with host smtp.gmail.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0]
+
+
+*	Error:-user id=11
+	invoice id=123
+	message=Connection could not be established with host smtp.gmail.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0]
+
+
+*	Error:-user id=11
+	invoice id=123
+	message=Connection could not be established with host smtp.gmail.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0]
+
+
+*	Error:-user id=6
+	invoice id=169
+	message=Connection could not be established with host smtp.gmail.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0]
+    Date :2018-03-07 10:10:02
+
+
+*	Error:-user id=6
+	invoice id=169
+	message=Connection could not be established with host smtp.gmail.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0]
+	Date :2018-03-07 10:11:01
+
+
+*	Error:-user id=2
+	invoice id=174
+	message=Address in mailbox given [CoolHost site] does not comply with RFC 2822, 3.6.2.
+	Date :2018-03-10 05:20:49
+
+
+*	Error:-user id=2
+	invoice id=174
+	message=Address in mailbox given [] does not comply with RFC 2822, 3.6.2.
+	Date :2018-03-10 05:21:20
+
+
+*	Error:-user id=12
+	invoice id=185
+	message=Connection could not be established with host coolhostme.com [Operation now in progress #115]
+	Date :2018-03-12 07:32:26
+
+
+*	Error:-user id=12
+	invoice id=185
+	message=Connection could not be established with host coolhostme.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0]
+	Date :2018-03-12 07:32:44
+
+
+*	Error:-user id=12
+	invoice id=185
+	message=Connection could not be established with host coolhostme.com [Connection refused #111]
+	Date :2018-03-12 07:35:03
+
+
